@@ -1,0 +1,56 @@
+header{
+    padding-bottom: 70px;
+}
+button{
+    width: 80px;
+    height: 80px;
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    background-color: rgb(0, 206, 34);
+    outline: 0;
+    cursor: pointer;
+}
+body{
+    margin: 0 auto;
+    text-align: center;
+    background-color:white;
+}
+table{
+    margin: 0 auto;
+    padding: 15px 0;
+}
+.display{
+    margin: auto;
+    margin-top: 80px;
+    border: white;
+    background-color: rgb(22, 185, 197);
+    border: 15px solid rgb(0, 3, 206);
+    border-radius: 20px;
+    width: 400px;
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+
+.demo-inner{
+    margin: auto;
+    width: 592px;
+    height: 592px;
+    
+}
+input{
+    width: 315px;
+    height: 40px;
+    font-size: 30px;
+    font-style: italic;
+    color:rgb(0, 0, 0);
+    border: 5px solid #343636da;
+    border-radius: 25px;
+    padding-left: 3px;
+    outline: none;
+    cursor: unset;
+}
+.calc{
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+}
